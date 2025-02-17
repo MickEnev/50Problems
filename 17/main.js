@@ -12,4 +12,5 @@ function firstBenjaminPrime() {
     return res;
 }
 
+
 console.log(firstBenjaminPrime());

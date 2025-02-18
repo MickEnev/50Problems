@@ -27,8 +27,6 @@ const charMap = new Map([
     ['z', 26]
 ]);
 
-let test = 0;
-
 function encrypt(word, shift) {
     let res = "";
     console.log("1");

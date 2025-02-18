@@ -1,1 +1,1 @@
-## 50 Beginner Coding Challenges
+## 50 JavaScript Coding Challenges

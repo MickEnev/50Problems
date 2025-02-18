@@ -3,3 +3,5 @@ function distance(x1, x2, y1, y2) {
 }
 
 console.log(distance(1, 2, 4, 5));
+
+module.exports = distance;

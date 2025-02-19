@@ -10,3 +10,5 @@ function shuffleArray(array) {
 }
 
 console.log(shuffleArray(["Hey", "my", "name", "is", "bill"]));
+
+module.exports = shuffleArray;

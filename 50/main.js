@@ -4,7 +4,6 @@ function charFrequency(string) {
         if (map.has(string[i])) {
             console.log("enter");
             map.set(string[i], map.get(string[i]) + 1);
-
         } else {
             map.set(string[i], 1);
         }
